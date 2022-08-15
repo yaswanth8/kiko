@@ -9,5 +9,6 @@ if __name__ == '__main__':
     print("new row")
     print("line 2")
     print("line 3")
+    print("4")
 
 
