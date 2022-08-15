@@ -8,5 +8,6 @@ if __name__ == '__main__':
     print_hi('PyCharm')
     print("new row")
     print("line 2")
+    print("line 3")
 
 
